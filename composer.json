@@ -1,12 +1,12 @@
 {
-  "name": "dm-drupal-google-analytics",
+  "name": "design-media-sf/dm-drupal-google-analytics",
   "description": "Allows your site to be tracked by Google Analytics by adding a Javascript tracking code to every page. DM Patched to support GA4 G-IDs.",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/google_analytics",
   "authors": [
     {
       "name": "See contributors",
-      "homepage":"https://www.drupal.org/node/49388/committers"
+      "homepage": "https://www.drupal.org/node/49388/committers"
     }
   ],
   "support": {
